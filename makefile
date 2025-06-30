@@ -1,4 +1,4 @@
-OBJS=ch5.o
+OBJS=ch8.o
 CC=gcc
 CFLAGS+=-c -Wall -g
 
